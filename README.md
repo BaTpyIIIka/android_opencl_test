@@ -1,6 +1,6 @@
 Exsample how to run OpenCL on Android devices
 
-1) tested on:
+1) Tested on:
   - Ubuntu 14.04;
   - Android Studio 3.1.2; 
   - NDK: r17; 
