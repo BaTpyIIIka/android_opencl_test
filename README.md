@@ -9,6 +9,7 @@ Exsample how to run OpenCL on Android devices
   - Gradle 3.3
   
   can be easily build on macOs
+  
 2) Android Studio -> import project, gradle
  
 3) Go to android_opencl_test/app/src/main/cpp/CMakeLists.txt 
