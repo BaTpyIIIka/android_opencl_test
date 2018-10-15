@@ -1,4 +1,4 @@
-Exsample how to run OpenCL on Android devices
+Example how to run OpenCL on Android devices
 
 1) Tested on:
   - Ubuntu 14.04;
